@@ -1,46 +1,47 @@
-Privacy Policy  
-----------------
-
-### Introduction  
-Our privacy policy will help you understand what information we collect at Home Paint Finder, how Home Paint Finder uses it, and what choices you have.
-Home Paint Finder built the Home Paint Finder app as a free app. This SERVICE is provided by Home Paint Finder at no cost and is intended for use as is.
-If you choose to use our Service, then you agree to the collection and use of information in  relation with this policy. The Personal Information that we collect are used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.  
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible in our website, unless otherwise  defined in this Privacy Policy.
-
-### Information Collection and Use  
-For a better experience while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited to users name, email address, gender, location, pictures. The information that we request will be retained by us and used as described in this privacy policy.  
-The app does use third party services that may collect information used to identify you. 
-
-### Cookies  
-Cookies are files with small amount of data that is commonly used an anonymous unique identifier. These are sent to your browser from the website that you visit and are stored on your devices’s internal memory.  
-
-This Services does not uses these “cookies” explicitly. However, the app may use third party code and libraries that use “cookies” to collection information and to improve their services. You have the option  to either accept or refuse these cookies, and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.  
-
-### Location Information  
-Some of the services may use location information transmitted from users' mobile phones. We only use this information within the scope necessary for the designated service.  
-
-### Device Information  
-We collect information from your device in some cases. The information will be utilized for the provision of better service and to prevent fraudulent acts. Additionally, such information will not include that which will identify the individual user.  
-
-### Service Providers  
-We may employ third-party companies and individuals due to the following reasons:  
-* To facilitate our Service;
-* To provide the Service on our behalf;
-* To perform Service-related services; or
-* To assist us in analyzing how our Service is used.  
-
-We want to inform users of this Service that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.  
-
-### Security  
-We value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over  the internet, or method of electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security.  
-
-### Children’s Privacy  
-This Services do not address anyone under the age of 13. We do not knowingly collect personal identifiable information from children under 13. In the case we discover that a child under 13 has provided us with personal information, we immediately delete this from our servers. If you  are  a  parent  or  guardian and you are aware that your child has provided us with personal information, please contact us so that we will be able to do necessary actions.  
-
-### Changes to This Privacy Policy  
-We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately, after they are posted on this page.  
-
-### Contact Us  
-If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us.  
-Contact Information:  
-Email: gerari-wanderin-1451@pages.plusgoogle.com  
+Privacy Policy - Paint Finder 2
+Last updated: February 14, 2026
+Introduction
+Our privacy policy will help you understand what information we collect at Paint Finder 2, how Paint Finder 2 uses it, and what choices you have.
+Paint Finder 2 is built as a free ad-supported app. This SERVICE is provided at no cost and is intended for use as is.
+If you choose to use our Service, then you agree to the collection and use of information in relation with this policy. The Personal Information that we collect is used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.
+Information Collection and Use
+Paint Finder 2 does not require user registration or account creation. The app does not collect your name, email address, or other personally identifiable information.
+The app does use third-party services that may collect information used to identify you. Links to the privacy policies of third-party service providers used by the app:
+Google AdMob
+Camera and Photo Gallery Access
+The app provides an option to pick colors from images. To enable this feature, the app may request access to:
+Device camera - to take photos for color analysis
+Photo gallery - to select existing images for color analysis
+Images are processed locally on your device for the sole purpose of extracting color information. No images are uploaded, transmitted, or stored on any external server. Image data is used only during the active session and is not retained after the color is selected.
+Advertising
+Paint Finder 2 displays advertisements provided by Google AdMob. AdMob may collect and use the following data:
+Advertising ID (Android Advertising ID) - a unique, user-resettable identifier for advertising purposes
+Device information - device type, operating system version, and general device settings
+IP address - used to estimate general location (country/region level) for ad targeting
+Ad interaction data - information about ads viewed and interacted with
+You can reset your Advertising ID or opt out of personalized advertising in your device settings:
+Settings > Privacy > Ads (may vary by device manufacturer).
+For more information on how Google uses data, visit: How Google uses information from sites or apps that use our services.
+Local Data Storage
+All user-created content (color collections, palettes, saved sets, and app preferences) is stored locally on your device using local storage (Hive database). This data is:
+Not transmitted to any external server
+Not accessible to us or any third party
+Deleted when the app is uninstalled
+Cookies
+This Service does not use "cookies" explicitly. However, the app uses third-party code and libraries (such as AdMob) that may use "cookies" or similar technologies to collect information and improve their services.
+Service Providers
+We may employ third-party companies and individuals due to the following reasons:
+To facilitate our Service;
+To provide the Service on our behalf;
+To perform Service-related services; or
+To assist us in analyzing how our Service is used.
+These third parties have access to certain information only to perform the tasks assigned to them on our behalf. They are obligated not to disclose or use the information for any other purpose.
+Security
+We value your trust in using our app. Since Paint Finder 2 stores all user data locally on your device and does not collect personal data on external servers, the security of your data primarily depends on your device security settings. We recommend keeping your device software up to date and using screen lock protection.
+Children's Privacy
+This Service does not address anyone under the age of 13. We do not knowingly collect personally identifiable information from children under 13. If you are a parent or guardian and you are aware that your child has provided personal information through a third-party service used by this app, please contact us so that we can take necessary actions.
+Changes to This Privacy Policy
+We may update our Privacy Policy from time to time. You are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. Changes are effective immediately after they are posted on this page.
+Contact Us
+If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us.
+Email: gerari-wanderin-1451@pages.plusgoogle.com
